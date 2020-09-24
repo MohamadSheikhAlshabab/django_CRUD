@@ -37,7 +37,7 @@
 - 1 -    import os
 - 2 -  INSTALLED_APPS=[  'app_name.apps.App_nameConfig']
 - 3 -  TEMPLATES=['DIRS':[os.path.join(BASE_DIR,'templates')]
-- 4 - STATICFILES_DIRS  = [os.join.path(BASE_DIR,'static')]
+- 4 - STATICFILES_DIRS  = [os.path.join(BASE_DIR,'static')]
 
 **********************************
 
